@@ -1,0 +1,5 @@
+package com.berkOs.Hafta06.Gun3.OdevSiniftaCozum;
+
+public enum ECorba {
+	MERCIMEK,EZOGELIN,TARHANA,DOMATES,YAYLA,MANTAR,SEHRIYE,ISKEMBE,YESILMERCIMEK
+}

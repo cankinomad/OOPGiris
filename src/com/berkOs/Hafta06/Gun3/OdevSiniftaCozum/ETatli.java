@@ -1,0 +1,5 @@
+package com.berkOs.Hafta06.Gun3.OdevSiniftaCozum;
+
+public enum ETatli {
+	EKMEKKADAYIFI,REVANI,KEMALPASA,KUNEFE,SUTLAC,PUDING,MUHALLEBI,KAZANDIBI,BAKLAVA
+}

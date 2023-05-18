@@ -1,0 +1,26 @@
+package com.berkOs.Hafta05.Gun5.Orn1Abstractli;
+
+public class Mysql extends Database{
+
+	
+	@Override
+	public void ekle() {
+		System.out.println("Mysql veri tabanina veri eklendi");
+	}
+	@Override
+	public void sil() {
+		System.out.println("Mysql veri tabanindan veri silindi");
+	}
+	@Override
+	public void verileriGetir() {
+		System.out.println("Mysql veri tabanindan veriler getirildi");		
+	}
+	@Override
+	public void guncelle() {
+		System.out.println("Mysql veri tabani guncellendi");		
+	}
+	@Override
+	public void login() {
+		System.out.println("Mysql'e baglanildi");		
+	}
+}
